@@ -1,2 +1,2 @@
 # Test_repo
-C_coding
+C_coding for students
